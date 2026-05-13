@@ -1,4 +1,4 @@
-# computational_neuroscience-model
+
 # 🧠 (Hodgkin-Huxley Model)
 
 
